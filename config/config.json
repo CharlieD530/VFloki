@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf9edf38c152b5b479485d0e13e818d105b96a563",
+  "SCAN_LINK": "https://bscscan.com/address/0xf9edf38c152b5b479485d0e13e818d105b96a563",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Valentine Floki",
+  "SYMBOL": "VFloki",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 69000000000000000,
+  "DISPLAY_COST": 0.069,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/",
+  "SHOW_BACKGROUND": true
+}
